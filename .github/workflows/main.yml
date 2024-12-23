@@ -1,0 +1,19 @@
+name: Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake animation
+        uses: Platane/snk@master
+        with:
+          github_user: YourGitHubUsername
+          svg_out_path: dist/github-contribution-grid-snake.svg
