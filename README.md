@@ -57,6 +57,11 @@
 
 ---
 
+## 🐍 Contribution Snake Animation:  
+![Snake animation](https://github.com/RITIK8158/RITIK8158/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=RITIK8158&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
